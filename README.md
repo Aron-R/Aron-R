@@ -1,6 +1,6 @@
 <img align='right' src="https://media.giphy.com/media/kYldOBgi4SWV2OmG8x/giphy.gif?cid=790b7611792a7f8700e4cc2464279dade9356a25a3177dce&rid=giphy.gif&ct=s" width = "100">
 <img align='left' src="https://media.giphy.com/media/hu7MpcFH5ZcdJhZYHr/giphy.gif?cid=ecf05e47yjxfabvziouckui7kwle414z10371m4o8xh1vobf&rid=giphy.gif&ct=s" width = "150">
-<br><br>
+<br><br><br>
 <p align="center">
 <b> Embody Virtue. </b>
 </p>
