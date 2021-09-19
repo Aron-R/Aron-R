@@ -9,10 +9,9 @@
 <pre>
 
 ~ $ <strong>cat note.txt</strong>
-1. I'm interested in AI and ML projects, especially NLP
-2. Ask me about a n y t h i n g
-3. I'd love to have a conversation with you ❤
-4. If I'm not responding to any of your PRs or issues,
+1. Looking to work with AI and ML, NLP in particular 
+2. Ask me about a n y t h i n g, I'd love to have a conversation with you ❤
+3. If I'm not responding to any of your PRs or issues,
    feel free to remind me via <a href="mailto:aronritesh223@gmail.com">email</a>.
 
 
