@@ -30,7 +30,7 @@ Plan:
 [![Linkedin: Aron Ritesh](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aron-r/)
 [![Github: Aron R](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FAron-R)
 
-# I contribute to github to keep my snake, snaky (yes, his name is snaky, he told me so) alive
+### I contribute to github to keep my snake, snaky (yes, his name is snaky, he told me so) alive
 
 <p align="center">
 
