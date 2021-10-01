@@ -31,3 +31,4 @@ Plan:
 [![Github: Aron R](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FAron-R)
 
 
+![snake gif](https://github.com/Aron-R/Aron-R/blob/output/github-contribution-grid-snake.gif)
