@@ -33,7 +33,8 @@ Plan:
 
 
 <p align="center">
-I contribute to github to keep my snake, snaky (yes, his name is snaky, he told me so) alive. He feeds on my contributions
+   
+<b> I contribute to github to keep my snake, snaky (yes, his name is snaky, he told me so) alive. He feeds on my contributions </b>
    
    ![snake gif](https://github.com/Aron-R/Aron-R/blob/output/github-contribution-grid-snake.svg)
    
